@@ -15,4 +15,4 @@ Aplicación móvil de noticias que consume el api NewsApi utilizando material 3
 2. Cambiar las variables de entorno (THE_APINEWS_KEY)
 
 ## Algunas capturas de pantalla de la aplicación
-![App](https://github.com/hdgch1106/news_app/images/captura1.png)
+![App](https://github.com/hdgch1106/news_app/blob/main/images/captura1.png)
